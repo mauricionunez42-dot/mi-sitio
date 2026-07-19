@@ -28,9 +28,9 @@
     "descarga": null
   },
   {
-    "id": "archivo-ejemplo",
+    "id": "Office",
     "tipo": "descarga",
-    "titulo": "Archivo de ejemplo para descargar",
+    "titulo": "Office 2019",
     "fecha": "2026-07-18",
     "resumen": "Así se ve una entrada con un archivo descargable seguro.",
     "contenido": [
@@ -39,8 +39,8 @@
     "video": null,
     "descarga": {
       "nombre": "ejemplo.pdf",
-      "ruta": "downloads/ejemplo.pdf",
-      "peso": "120 KB"
+      "ruta": "C:\Users\AMTEC\Downloads\Office",
+      "peso": "7.16 MB"
     }
   }
 ]
