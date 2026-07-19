@@ -34,20 +34,7 @@
     "fecha": "2026-07-18",
     "resumen": "Así se ve una entrada con un archivo descargable seguro.",
     "contenido": [
-      {
-  "id": "Office",
-  "tipo": "descarga",
-  "titulo": "descargable",
-  "fecha": "2026-07-19",
-  "resumen": "Una imagen disponible para descargar.",
-  "contenido": ["Descripción breve de la imagen si quieres agregar algo."],
-  "video": null,
-  "descarga": {
-    "nombre": "Office",
-    "ruta": "downloads/Office",
-    "peso": "7,514,520 KB"
-  }
-}
+
     ],
     "video": null,
     "descarga": {
