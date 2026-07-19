@@ -28,19 +28,19 @@
     "descarga": null
   },
   {
-    "id": "Office",
+    "id": "zoe",
     "tipo": "descarga",
-    "titulo": "Office 2019",
+    "titulo": "ZOE",
     "fecha": "2026-07-18",
-    "resumen": "Así se ve una entrada con un archivo descargable seguro.",
+    "resumen": "Carpeta compartida con varios archivos.",
     "contenido": [
-
+      "Descripción breve de lo que contiene esta carpeta."
     ],
     "video": null,
     "descarga": {
-      "nombre": "ejemplo.pdf",
-      "ruta": "Downloads/Office",
-      "peso": "7.16 MB"
+      "nombre": "Carpeta compartida",
+      "ruta": "https://drive.google.com/drive/folders/0B_hfIKT807xZNERESGQwTWxtanM?resourcekey=0-47vPilVivFGNXGfaqPOM9g",
+      "peso": "Varios archivos"
     }
   }
 ]
