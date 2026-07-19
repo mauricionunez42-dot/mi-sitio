@@ -55,16 +55,18 @@ function embedVideo(video){
 
 function bloqueDescarga(descarga){
   if(!descarga) return "";
+  const esExterno = /^https?:\/\//.test(descarga.ruta);
+  const texto = esExterno ? "Abrir en Drive" : "Descargar";
   return `
     <div class="download-box">
       <div class="file-info">
         <strong>${descarga.nombre}</strong>
         ${descarga.peso}
       </div>
-      <a class="btn" href="${descarga.ruta}" download>Descargar</a>
+      <a class="btn" href="${descarga.ruta}" ${esExterno ? 'target="_blank" rel="noopener"' : "download"}>${texto}</a>
     </div>
     <p class="safety-note">
-      Este archivo está alojado directamente en este sitio; no proviene de un enlace externo ni de terceros.
+      ${esExterno ? "Este archivo está alojado en Google Drive." : "Este archivo está alojado directamente en este sitio; no proviene de un enlace externo ni de terceros."}
     </p>
   `;
 }
