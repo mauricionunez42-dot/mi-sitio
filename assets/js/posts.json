@@ -28,9 +28,9 @@
     "descarga": null
   },
   {
-    "id": "Ofimatica",
+    "id": "Zoe",
     "tipo": "descarga",
-    "titulo": "Ofimatica",
+    "titulo": "Zoe",
     "fecha": "2026-07-19",
     "resumen": "Carpeta compartida con varios archivos.",
     "contenido": [
@@ -39,7 +39,7 @@
     "video": null,
     "descarga": {
       "nombre": "Carpeta compartida",
-      "ruta": "https://drive.google.com/drive/folders/1GG0ZuBmMWzvmtSuuz2OpAy9oOfzJfleL?usp=sharing",
+      "ruta": "https://drive.google.com/drive/folders/0B_hfIKT807xZNERESGQwTWxtanM?resourcekey=0-47vPilVivFGNXGfaqPOM9g&usp=sharing",
       "peso": "Varios archivos"
     }
   }
