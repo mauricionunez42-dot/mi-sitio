@@ -28,19 +28,21 @@
     "descarga": null
   },
   {
-    "id": "zoe",
-    "tipo": "descarga",
-    "titulo": "ZOE",
-    "fecha": "2026-07-18",
-    "resumen": "Carpeta compartida con varios archivos.",
-    "contenido": [
-      "Descripción breve de lo que contiene esta carpeta."
-    ],
-    "video": null,
-    "descarga": {
-      "nombre": "Carpeta compartida",
-      "ruta": "https://drive.google.com/drive/folders/0B_hfIKT807xZNERESGQwTWxtanM?resourcekey=0-47vPilVivFGNXGfaqPOM9g",
-      "peso": "Varios archivos"
+  "id": "prueba-drive",
+  "tipo": "descarga",
+  "titulo": "Prueba de descarga",
+  "fecha": "2026-07-19",
+  "resumen": "Entrada de prueba para confirmar que el enlace de Drive funciona.",
+  "contenido": [
+    "Esta es una entrada de prueba."
+  ],
+  "video": null,
+  "descarga": {
+    "nombre": "Hoja de cálculo de prueba",
+    "ruta": "https://docs.google.com/spreadsheets/d/1ZKfdCEv2BRD1PpUOZrmO0UspE2h3xSAwPp7KSvw7zkw/edit?usp=drive_link",
+    "peso": "N/A"
+  }
+}
     }
   }
 ]
