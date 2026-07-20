@@ -28,18 +28,18 @@
     "descarga": null
   },
   {
-    "id": "zoe",
+    "id": "Office",
     "tipo": "descarga",
-    "titulo": "ZOE",
-    "fecha": "2026-07-18",
+    "titulo": "Office",
+    "fecha": "2026-07-19",
     "resumen": "Carpeta compartida con varios archivos.",
     "contenido": [
-      "Descripción breve de lo que contiene esta carpeta."
+      "Archivos de instalacion office LTSC
     ],
     "video": null,
     "descarga": {
       "nombre": "Carpeta compartida",
-      "ruta": "https://drive.google.com/drive/folders/0B_hfIKT807xZNERESGQwTWxtanM?resourcekey=0-47vPilVivFGNXGfaqPOM9g",
+      "ruta": "https://drive.google.com/drive/folders/1GG0ZuBmMWzvmtSuuz2OpAy9oOfzJfleL?usp=sharing",
       "peso": "Varios archivos"
     }
   }
